@@ -1,0 +1,4 @@
+Edit or make files, commmit to a branch, people can test this branch by downloading and testing, describe your changes, check diffs. 
+Then when the branch is advanced satisfactorily, or if you want to consolidate with mastter, just request a pull.
+Then the collaborators will accept or deny that request based on their keks.
+world welcome congratulations hello
